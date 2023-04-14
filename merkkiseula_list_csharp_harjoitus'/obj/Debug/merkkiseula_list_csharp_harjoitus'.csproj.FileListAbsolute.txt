@@ -1,0 +1,7 @@
+C:\Users\Slav!\source\repos\merkkiseula_list_csharp_harjoitus'\merkkiseula_list_csharp_harjoitus'\bin\Debug\merkkiseula_list_csharp_harjoitus'.exe.config
+C:\Users\Slav!\source\repos\merkkiseula_list_csharp_harjoitus'\merkkiseula_list_csharp_harjoitus'\bin\Debug\merkkiseula_list_csharp_harjoitus'.exe
+C:\Users\Slav!\source\repos\merkkiseula_list_csharp_harjoitus'\merkkiseula_list_csharp_harjoitus'\bin\Debug\merkkiseula_list_csharp_harjoitus'.pdb
+C:\Users\Slav!\source\repos\merkkiseula_list_csharp_harjoitus'\merkkiseula_list_csharp_harjoitus'\obj\Debug\merkkiseula_list_csharp_harjoitus'.csproj.AssemblyReference.cache
+C:\Users\Slav!\source\repos\merkkiseula_list_csharp_harjoitus'\merkkiseula_list_csharp_harjoitus'\obj\Debug\merkkiseula_list_csharp_harjoitus'.csproj.CoreCompileInputs.cache
+C:\Users\Slav!\source\repos\merkkiseula_list_csharp_harjoitus'\merkkiseula_list_csharp_harjoitus'\obj\Debug\merkkiseula_list_csharp_harjoitus'.exe
+C:\Users\Slav!\source\repos\merkkiseula_list_csharp_harjoitus'\merkkiseula_list_csharp_harjoitus'\obj\Debug\merkkiseula_list_csharp_harjoitus'.pdb
